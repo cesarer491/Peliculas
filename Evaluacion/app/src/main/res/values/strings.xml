@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evaluacion</string>
+    <string name="title_activity_detalle">Pelicula</string>
+    <string name="action_settings">Settings</string>
+</resources>
